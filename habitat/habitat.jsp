@@ -157,7 +157,7 @@
 					</div>
 					
 					<div style="width: 12.5%; height: 40px; border:1px solid black; float:left; text-align: center; line-height: 40px; font-size: 17px;">
-						<a href="#">취약성 평가3</a>
+						<a href="#">Test GeoJson</a>
 					</div>
 				</div>
 			
@@ -172,7 +172,7 @@
 						  <script>
 					       
 					       /* {crs:L.CRS.EPSG4326} */
-						   var mymap = L.map('map').setView([127.123123, 35.123123], 7);
+						   var mymap = L.map('map').setView([127.123123, 35.123123], 10);
 			
 							var request = new XMLHttpRequest();  
 							 

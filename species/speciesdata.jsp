@@ -383,7 +383,7 @@ var test = new Array();
 			<div id="map" class="map" style="width: 85.7%; height: 100%; border:1px solid black; position : relative;">
 			
 				<script>
-				var mymap = L.map('map').setView([35.891034,127.772757], 6);
+				var mymap = L.map('map').setView([35.891034,127.772757], 7);
 				    
 				 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 						attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' //화면 오른쪽 하단 attributors
